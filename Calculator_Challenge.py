@@ -1,5 +1,5 @@
 #from art import logo
-import clear
+#import clear
 
 def add(num1,num2):
   return num1 + num2
